@@ -1,0 +1,39 @@
+body{
+    background-color: orange;
+    text-align: center;
+}
+nav{
+    font-size: 28px;
+    text-decoration: wavy;
+    color: black;
+    font-weight: bold;
+}
+a:hover {
+    background-color: orangered;
+}
+h1{
+    font-size: 36px;
+    color: azure;
+    text-decoration: underline;
+}
+h2{
+    font-size: 32px;
+    color: rgb(252, 207, 214);
+    text-decoration: overline;
+}
+p{
+    font-size: 30px;
+    color: lightyellow;
+}
+div img{
+    border: black 16px;
+    border-radius: 12px;
+}
+small{
+    font-size: 20px;
+    color: rgb(85, 55, 1)
+}
+div a{
+    font-size: 20px;
+    text-decoration: dotted;
+}
